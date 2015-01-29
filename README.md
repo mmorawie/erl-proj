@@ -1,2 +1,2 @@
-# erl-proj
+# projekt dla Pana Doktora
 
